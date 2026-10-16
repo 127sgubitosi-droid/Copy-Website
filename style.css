@@ -1,0 +1,32 @@
+body{
+    background-color: #1c4587ff;
+    color: white;
+}
+a[href *="https://docs.google.com/document/d/1fe8WqC-8ANao3NeNtd517elGpjtQd-Mb7myZg2J4xYY/edit?tab=t.0#heading=h.gjdgxs"] {
+    color: white;
+}
+
+a[href *="https://docs.google.com/document/d/1HQrQpz4c7BPawGUj5knEQYSd88lH2uRgwz2KuLSGBWw/edit?tab=t.0#heading=h.gjdgxs"] {
+        color: white;
+}
+
+a[href *="https://docs.google.com/document/d/1EKe8ApCdyGswZcFHimbYrD_YyvYTdRvnyIlS0eeZWWc/edit?tab=t.0#heading=h.gjdgxs"]{
+    color: white;
+}
+
+a[href *="https://docs.google.com/document/d/1VPM1zYZzSlGkjDre80V5IrqwnBAaFGxt4L4tO11R1X0/edit?tab=t.0#heading=h.gjdgxs"]{
+    color: white;
+}
+
+a[href *="https://docs.google.com/document/d/1OOcgEaf3etS67lBQ-YZ1VLIybsRjvmGBehnaR_O1wvc/edit?tab=t.0#heading=h.gjdgxs"]{
+    color: white;
+}
+
+
+
+    img{
+         grid-column: span 3;
+         grid-row: span 3;
+         height: 10%;
+         width: 10%;
+ }
